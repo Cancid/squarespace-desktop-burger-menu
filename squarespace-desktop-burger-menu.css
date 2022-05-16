@@ -6,11 +6,13 @@
   
 	.header-nav {display:none}
   
-	.header--menu-open .header-menu { 		opacity: 1; visibility: 				visible; text-align: center
+	.header--menu-open .header-menu { 		
+		opacity: 1; visibility: 				
+		visible; text-align: center
   	}
   
 	.header-menu-actions {
-      display: none;
+		display: none;
   	}
   
 	.header-menu-cta {
@@ -18,7 +20,7 @@
 	}
   
 	.header-menu-nav-item a {
-    	font-size: 45px;
-    	line-height: .8
+		font-size: 45px;
+		line-height: .8
 	}
 }
